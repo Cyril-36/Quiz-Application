@@ -356,7 +356,7 @@ SOFTWARE.
 
 - **Issues**: [GitHub Issues](https://github.com/Cyril-36/Quiz-Application/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Cyril-36/Quiz-Application/discussions)
-- **Email**: [Create an issue for direct contact]
+- **Email**: cyrilchaitanya@gmail.com
 
 ---
 
