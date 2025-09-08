@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2025-09-08 13:34",
+    "topic": "Gadgets",
+    "score": 2,
+    "username": "123"
+  },
+  {
+    "date": "2025-09-08 13:17",
+    "topic": "Computers",
+    "score": 3,
+    "username": "123"
+  },
+  {
+    "date": "2025-09-08 13:12",
+    "topic": "Computers",
+    "score": 3,
+    "username": "123"
+  },
+  {
+    "date": "2025-09-08 11:54",
+    "topic": "Gadgets",
+    "score": 2,
+    "username": "123"
+  },
+  {
+    "date": "2025-07-14 15:46",
+    "topic": "Computers",
+    "score": 4,
+    "username": "cyril"
+  },
+  {
+    "date": "2025-07-14 15:39",
+    "topic": "General Knowledge",
+    "score": 3,
+    "username": "cyril"
+  },
+  {
+    "date": "2025-07-14 15:17",
+    "topic": "Computers",
+    "score": 3,
+    "username": "cyril"
+  },
+  {
+    "date": "2025-07-14 15:09",
+    "topic": "Gadgets",
+    "score": 3,
+    "username": "cyril"
+  },
+  {
+    "date": "2025-07-14 14:54",
+    "topic": "Gadgets",
+    "score": 2,
+    "username": "cyril"
+  },
+  {
+    "date": "2025-07-14 14:31",
+    "topic": "Computers",
+    "score": 1
+  },
+  {
+    "date": "2025-07-14 14:27",
+    "topic": "Computers",
+    "score": 2
+  }
+]
